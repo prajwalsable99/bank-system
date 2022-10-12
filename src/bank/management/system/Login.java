@@ -19,7 +19,7 @@ public class Login extends JFrame implements ActionListener {
     Login(){
         
         setLayout(null);        
-        getContentPane().setBackground(Color.yellow);
+        getContentPane().setBackground(Color.LIGHT_GRAY);
         setTitle("BANK OF PRAJWAL");
         
         ImageIcon logo=new ImageIcon(ClassLoader.getSystemResource("icons/bank_logo.jpg"));
